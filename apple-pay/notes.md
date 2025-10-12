@@ -35,3 +35,8 @@
 https://developer.apple.com/documentation/ApplePayontheWeb/payment-request-api
 - Apple Pay JS API 
 https://developer.apple.com/documentation/applepayontheweb/apple-pay-js-api
+
+
+## API Diagram ( PDF integration guide )
+
+https://developer.apple.com/apple-pay/Apple-Pay-Merchant-Integration-Guide.pdf
